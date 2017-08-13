@@ -1,0 +1,13 @@
+Color	KEYWORD1
+red	KEYWORD2
+green	KEYWORD2
+blue	KEYWORD2
+orange	KEYWORD2
+yellow	KEYWORD2
+indigo	KEYWORD2
+cyan	KEYWORD2
+magenta	KEYWORD2
+white	KEYWORD2
+off	KEYWORD2
+pink	KEYWORD2
+rainbow	KEYWORD2
